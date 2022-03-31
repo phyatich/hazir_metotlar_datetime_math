@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/bin/Debug/net5.0/hazir_metotlar_datetime_math.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/bin/Debug/net5.0/hazir_metotlar_datetime_math.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/bin/Debug/net5.0/hazir_metotlar_datetime_math.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/bin/Debug/net5.0/hazir_metotlar_datetime_math.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/bin/Debug/net5.0/ref/hazir_metotlar_datetime_math.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/bin/Debug/net5.0/hazir_metotlar_datetime_math.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/obj/Debug/net5.0/ref/hazir_metotlar_datetime_math.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.genruntimeconfig.cache
